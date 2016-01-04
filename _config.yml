@@ -1,0 +1,28 @@
+name: servicedesign
+favicon: null
+layout_spectrum: 0.3484975572209805
+typography_spectrum: 0.21736078057438135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6641345033422112
+  lightness: 0.5899545974098146
+  saturation: 0.351784554310143
+  rhythmicContrast: 0.16959254583343863
+purpose: []
